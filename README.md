@@ -1,3 +1,7 @@
+> This is a fork of getSpatialData from the 17 May 2021 for the purpose of ensuring continuity of the HiLDEN project workflow. 
+> We have fixed all USGS EROS requests to make them compliant with the USGS M2M API v1.5.0, the rest of the package remains untouched. 
+> To install this package use: devtools::install_github("jakobjassmann/getSpatialData")
+
 # getSpatialData <a href="http://jxsw.de/getSpatialData"><img align="right" src="https://raw.githubusercontent.com/16EAGLE/AUX_data/master/data/gSD_hex.png" /></a>
 
 [![CRAN version](https://www.r-pkg.org/badges/version/getSpatialData)](https://CRAN.R-project.org/package=getSpatialData)
